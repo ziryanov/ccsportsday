@@ -627,7 +627,7 @@
             ]
         },
         {
-            "title" : "Волейбол",
+            "title" : "Волейбол (м)",
             "start_time" : "2014-08-03T10:00:00+04:00",
             "end_time" : "2014-08-03T17:30:00+04:00",
             "location_x" : -0.10,
@@ -639,12 +639,34 @@
                 "NetCracker",
                 "EPAM Systems",
                 "MyPlayCity",
-                ""
+                "СМС-ИТ"
             ],
             "results" : [
                 "Haulmont",
                 "NetCracker",
                 "СМС-ИТ"
+            ]
+        },
+        {
+            "title" : "Волейбол (ж)",
+            "start_time" : "2014-08-03T10:00:00+04:00",
+            "end_time" : "2014-08-03T17:30:00+04:00",
+            "location_x" : -0.10,
+            "location_y" : 0.08,
+            "teams" : [
+                "ЦФТ",
+                "Haulmont",
+                "Разумные решения",
+                "NetCracker",
+                "EPAM Systems",
+                "MyPlayCity",
+                "ГКУ СО РЦУП",
+                "ЛАНИТ"
+            ],
+            "results" : [
+                "NetCracker",
+                "ГКУ СО РЦУП",
+                "ЛАНИТ"
             ]
         },
         {
