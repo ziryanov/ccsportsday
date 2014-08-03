@@ -646,7 +646,31 @@
             ]
         },
         {
-            "title" : "Перетягивание каната",
+            "title" : "Перетягивание каната (ж)",
+            "start_time" : "2014-08-03T14:00:00+04:00",
+            "end_time" : "2014-08-03T17:30:00+04:00",
+            "location_x" : 0.35,
+            "location_y" : 0.20,
+            "teams" : [
+                "Cloud Castle",
+                "Haulmont",
+                "КБ99",
+                "EPAM Systems",
+                "Самара-Информспутник",
+                "Altarix",
+                "Resolution Point",
+                "ПЕТЕР-СЕРВИС",
+                "MyPlayCity",
+                "NetCracker"
+            ],
+            "results" : [
+                "MyPlayCity",
+                "Cloud Castle",
+                "NetCracker"
+            ]
+        },
+        {
+            "title" : "Перетягивание каната (м)",
             "start_time" : "2014-08-03T14:00:00+04:00",
             "end_time" : "2014-08-03T17:30:00+04:00",
             "location_x" : 0.35,
@@ -661,6 +685,11 @@
                 "Resolution Point",
                 "ПЕТЕР-СЕРВИС",
                 "MyPlayCity"
+            ],
+            "results" : [
+                "EPAM Systems",
+                "Haulmont",
+                "NetCracker"
             ]
         },
         {
