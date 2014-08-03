@@ -253,11 +253,6 @@
                 "ЛЕТА",
                 "EPAM Systems",
                 "NetCracker"
-            ],
-            "results" : [
-                "ЛЕТА",
-                "NetCracker",
-                "Программные Технологии"
             ]
         },
         {
@@ -624,6 +619,11 @@
                 "ЛЕТА",
                 "EPAM Systems",
                 "NetCracker"
+            ],
+            "results" : [
+                "ЛЕТА",
+                "NetCracker",
+                "Программные Технологии"
             ]
         },
         {
