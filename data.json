@@ -339,8 +339,8 @@
             "title" : "Стрельба",
             "start_time" : "2015-09-05T10:30:00+04:00",
             "end_time" : "2015-09-05T15:00:00+04:00",
-            "location_x" : 0.60,
-            "location_y" : 0.22,
+            "location_x" : 0.52,
+            "location_y" : 0.12,
             "teams" : [
                 "Cloud Castle",
                 "Программные Технологии",
@@ -697,8 +697,8 @@
             "title" : "Городки",
             "start_time" : "2015-09-06T12:00:00+04:00",
             "end_time" : "2015-09-06T15:00:00+04:00",
-            "location_x" : 0.60,
-            "location_y" : 0.22,
+            "location_x" : 0.52,
+            "location_y" : 0.12,
             "teams" : [
                 "Cloud Castle",
                 "Haulmont",
