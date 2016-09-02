@@ -1,1150 +1,1018 @@
 {
     "teams" : [
-        "Cloud Castle",
-        "BoomeranGO",
-        "PARUS AGENCY",
-        "Программные Технологии",
-        "Haulmont",
-        "EPAM Systems",
-        "i-Sys",
-        "CQG",
-        "ЗАО ПЕТЕР-СЕРВИС",
-        "NetCracker",
-        "Доминион",
-        "ИТ-ТрансПроект",
-        "Elephant Games",
-        "Старт2ком",
-        "Altarix",
-        "ГК СМС-Автоматизация",
-        "АйТи Таск",
-        "Nvision",
-        "CleverData",
-        "WeSee ltd",
-        "Самара-Информспутник",
-        "ГКУ СО РЦУП",
-        "Воздухоплаватели",
-        "StartUp Samara",
-        "Magenta Technology",
-        "ООО ПАРУС",
-        "Maxifier Development",
-        "REG.RU",
-        "ИРТех",
-        "ООО ГК ИНФОПРО",
-        "ИТС Софт",
-        "СМ Маркет",
-        "FMF",
-        "ИнтеллектСофт",
-        "Разумные решения",
-        "Ривер Cити",
-        "АО АКБ ГАЗБАНК",
-        "Техотдел",
-        "Resolution Point",
-        "ИП Батищев",
-        "Титков Иван",
-        "Лущенко Денис",
-        "Сафронов Андрей",
-        "Поликанов Антон",
-        "Якуцэня Александр",
-        "Овчинников Андрей",
-        "Тулин Алексей",
-        "Жуков Сергей",
-        "Легаль Гурван"
+        {
+            "title": "Cloud Castle",
+            "count": 26
+        },
+        {
+            "title": "ГК СМС-Автоматизация",
+            "count": 45
+        },
+        {
+            "title": "Самара-Информспутник",
+            "count": 14
+        },
+        {
+            "title": "Разумные решения",
+            "count": 19
+        },
+        {
+            "title": "Программные Технологии",
+            "count": 19
+        },
+        {
+            "title": "StartupSamara",
+            "count": 16
+        },
+        {
+            "title": "Maxifier",
+            "count": 5
+        },
+        {
+            "title": "CQG",
+            "count": 8
+        },
+        {
+            "title": "ЗАО ПЕТЕР-СЕРВИС",
+            "count": 25
+        },
+        {
+            "title": "ИРТех",
+            "count": 8
+        },
+        {
+            "title": "ГК ПАРУС",
+            "count": 17
+        },
+        {
+            "title": "Воздухоплаватели",
+            "count": 1
+        },
+        {
+            "title": "RiverCity",
+            "count": 13
+        },
+        {
+            "title": "NetCracker",
+            "count": 74
+        },
+        {
+            "title": "Magenta Technology",
+            "count": 26
+        },
+        {
+            "title": "i-Sys",
+            "count": 18
+        },
+        {
+            "title": "Haulmont",
+            "count": 36
+        },
+        {
+            "title": "EPAM Systems",
+            "count": 71
+        },
+        {
+            "title": "Ecwid",
+            "count": 4
+        },
+        {
+            "title": "CleverData",
+            "count": 1
+        },
+        {
+            "title": "Altarix",
+            "count": 26
+        },
+        {
+            "title": "All Correct",
+            "count": 1
+        },
+        {
+            "title": "MyPlayCity Inc.",
+            "count": 1
+        },
+        {
+            "title": "SEO Простор",
+            "count": 2
+        },
+        {
+            "title": "Mercury Development",
+            "count": 8
+        },
+        {
+            "title": "АО Сбербанк-Технологии",
+            "count": 27
+        },
+        {
+            "title": "ASM Forward Media",
+            "count": 8
+        },
+        {
+            "title": "wowworks",
+            "count": 4
+        },
+        {
+            "title": "Мелкин Вадим",
+            "count": 1
+        },
+        {
+            "title": "Торопчин Юрий",
+            "count": 1
+        }
     ],
     "first_day_competitions" : [
         {
             "title" : "Регистрация участников",
-            "start_time" : "2015-09-05T08:30:00+04:00",
-            "end_time" : "2015-09-05T09:30:00+04:00",
+            "start_time" : "2016-09-03T09:00:00+04:00",
+            "end_time" : "2016-09-03T10:00:00+04:00",
             "location_x" : 0.31,
             "location_y" : 0.75,
             "teams" : [
                 "Cloud Castle",
-                "BoomeranGO",
-                "PARUS AGENCY",
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Разумные решения",
                 "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "i-Sys",
+                "StartupSamara",
+                "Maxifier",
                 "CQG",
                 "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Доминион",
-                "ИТ-ТрансПроект",
-                "Elephant Games",
-                "Старт2ком",
-                "Altarix",
-                "ГК СМС-Автоматизация",
-                "АйТи Таск",
-                "Nvision",
-                "CleverData",
-                "WeSee ltd",
-                "Самара-Информспутник",
-                "ГКУ СО РЦУП",
-                "Воздухоплаватели",
-                "StartUp Samara",
-                "Magenta Technology",
-                "ООО ПАРУС",
-                "Maxifier Development",
-                "REG.RU",
                 "ИРТех",
-                "ООО ГК ИНФОПРО",
-                "ИТС Софт",
-                "СМ Маркет",
-                "FMF",
-                "ИнтеллектСофт",
-                "Разумные решения",
-                "Ривер Cити",
-                "АО АКБ ГАЗБАНК",
-                "Техотдел",
-                "Resolution Point",
-                "ИП Батищев",
-                "Титков Иван",
-                "Лущенко Денис",
-                "Сафронов Андрей",
-                "Поликанов Антон",
-                "Якуцэня Александр",
-                "Овчинников Андрей",
-                "Тулин Алексей",
-                "Жуков Сергей",
-                "Легаль Гурван"
+                "ГК ПАРУС",
+                "Воздухоплаватели",
+                "RiverCity",
+                "NetCracker",
+                "Magenta Technology",
+                "i-Sys",
+                "Haulmont",
+                "EPAM Systems",
+                "Ecwid",
+                "CleverData",
+                "Altarix",
+                "All Correct",
+                "MyPlayCity Inc.",
+                "SEO Простор",
+                "Mercury Development",
+                "АО Сбербанк-Технологии",
+                "Мелкин Вадим",
+                "Торопчин Юрий"
             ]
         },
         {
             "title" : "Торжественное открытие",
-            "start_time" : "2015-09-05T09:30:00+04:00",
-            "end_time" : "2015-09-05T10:00:00+04:00",
+            "start_time" : "2016-09-03T10:30:00+04:00",
+            "end_time" : "2016-09-03T11:00:00+04:00",
             "location_x" : 0.35,
             "location_y" : 0.20,
             "teams" : [
                 "Cloud Castle",
-                "BoomeranGO",
-                "PARUS AGENCY",
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Разумные решения",
                 "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "i-Sys",
+                "StartupSamara",
+                "Maxifier",
                 "CQG",
                 "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Доминион",
-                "ИТ-ТрансПроект",
-                "Elephant Games",
-                "Старт2ком",
-                "Altarix",
-                "ГК СМС-Автоматизация",
-                "АйТи Таск",
-                "Nvision",
-                "CleverData",
-                "WeSee ltd",
-                "Самара-Информспутник",
-                "ГКУ СО РЦУП",
+                "ИРТех",
+                "ГК ПАРУС",
                 "Воздухоплаватели",
-                "StartUp Samara",
+                "RiverCity",
+                "NetCracker",
                 "Magenta Technology",
-                "ООО ПАРУС",
-                "Maxifier Development",
-                "REG.RU",
-                "ИРТех",
-                "ООО ГК ИНФОПРО",
-                "ИТС Софт",
-                "СМ Маркет",
-                "FMF",
-                "ИнтеллектСофт",
-                "Разумные решения",
-                "Ривер Cити",
-                "АО АКБ ГАЗБАНК",
-                "Техотдел",
-                "Resolution Point",
-                "ИП Батищев",
-                "Титков Иван",
-                "Лущенко Денис",
-                "Сафронов Андрей",
-                "Поликанов Антон",
-                "Якуцэня Александр",
-                "Овчинников Андрей",
-                "Тулин Алексей",
-                "Жуков Сергей",
-                "Легаль Гурван"
-            ]
-        },
-        {
-            "title" : "Стритбол",
-            "start_time" : "2015-09-05T10:30:00+04:00",
-            "end_time" : "2015-09-05T17:00:00+04:00",
-            "location_x" : 0.50,
-            "location_y" : 0.23,
-            "teams" : [
-                "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
                 "i-Sys",
-                "CQG",
-                "NetCracker",
-                "ИТ-ТрансПроект",
-                "Самара-Информспутник",
-                "ГКУ СО РЦУП",
-                "ООО ПАРУС"
-            ],
-            "results" : [
-                "ГКУ СО РЦУП",
-                "EPAM Systems",
-                "Программные Технологии"
-            ]
-        },
-        {
-            "title" : "Мини-футбол",
-            "start_time" : "2015-09-05T10:30:00+04:00",
-            "end_time" : "2015-09-05T18:00:00+04:00",
-            "location_x" : 0.62,
-            "location_y" : 0.64,
-            "teams" : [
-                "Cloud Castle",
-                "Программные Технологии",
                 "Haulmont",
                 "EPAM Systems",
-                "i-Sys",
-                "CQG",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "ИТ-ТрансПроект",
-                "Elephant Games",
-                "ГК СМС-Автоматизация",
-                "Воздухоплаватели",
-                "ООО ПАРУС",
-                "REG.RU",
-                "ИРТех",
-                "ООО ГК ИНФОПРО",
-                "Ривер Cити",
-                "Тулин Алексей"
-            ]
-        },
-        {
-            "title" : "Настольный теннис (ж)",
-            "start_time" : "2015-09-05T10:30:00+04:00",
-            "end_time" : "2015-09-05T18:00:00+04:00",
-            "location_x" : 0.71,
-            "location_y" : 0.45,
-            "teams" : [
-                "Cloud Castle",
-                "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "CQG",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Доминион",
-                "Elephant Games",
-                "Старт2ком",
+                "Ecwid",
+                "CleverData",
                 "Altarix",
-                "ГК СМС-Автоматизация",
-                "Самара-Информспутник",
-                "ГКУ СО РЦУП",
-                "Воздухоплаватели",
-                "StartUp Samara",
-                "ООО ПАРУС",
-                "REG.RU",
-                "ООО ГК ИНФОПРО",
-                "ИТС Софт",
-                "FMF",
-                "Разумные решения",
-                "Сафронов Андрей"
-            ],
-            "results" : [
-                "Cloud Castle",
-                "FMF",
-                "ГКУ СО РЦУП"
-            ]
-        },
-        {
-            "title" : "Настольный теннис (м)",
-            "start_time" : "2015-09-05T10:30:00+04:00",
-            "end_time" : "2015-09-05T18:00:00+04:00",
-            "location_x" : 0.71,
-            "location_y" : 0.45,
-            "teams" : [
-                "Cloud Castle",
-                "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "CQG",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Доминион",
-                "Elephant Games",
-                "Старт2ком",
-                "Altarix",
-                "ГК СМС-Автоматизация",
-                "Самара-Информспутник",
-                "ГКУ СО РЦУП",
-                "Воздухоплаватели",
-                "StartUp Samara",
-                "ООО ПАРУС",
-                "REG.RU",
-                "ООО ГК ИНФОПРО",
-                "ИТС Софт",
-                "FMF",
-                "Разумные решения",
-                "Сафронов Андрей"
-            ],
-            "results" : [
-                "Самара-Информспутник",
-                "CQG",
-                "EPAM Systems"
-            ]
-        },
-        {
-            "title" : "Бег 800 метров (ж, 1 забег)",
-            "start_time" : "2015-09-05T10:30:00+04:00",
-            "end_time" : "2015-09-05T12:00:00+04:00",
-            "location_x" : 0.20,
-            "location_y" : 0.20,
-            "teams" : [
-                "CQG",
-                "Haulmont",
-                "ГКУ СО РЦУП",
-                "Доминион",
-                "ГК СМС-Автоматизация",
-                "Resolution Point",
-                "EPAM Systems",
-                "NetCracker",
-                "ЗАО ПЕТЕР-СЕРВИС"
-            ]
-        },
-        {
-            "title" : "Бег 800 метров (м, 1 забег)",
-            "start_time" : "2015-09-05T10:30:00+04:00",
-            "end_time" : "2015-09-05T12:00:00+04:00",
-            "location_x" : 0.20,
-            "location_y" : 0.20,
-            "teams" : [
-                "Haulmont",
-                "NetCracker",
-                "ГК СМС-Автоматизация",
-                "REG.RU",
-                "ИРТех",
-                "Воздухоплаватели",
-                "ИТС Софт",
-                "Разумные решения"
-            ]
-        },
-        {
-            "title" : "Шахматы",
-            "start_time" : "2015-09-05T10:30:00+04:00",
-            "end_time" : "2015-09-05T15:30:00+04:00",
-            "location_x" : 0.02,
-            "location_y" : 0.14,
-            "teams" : [
-                "Cloud Castle",
-                "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "i-Sys",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "Доминион",
-                "ГК СМС-Автоматизация",
-                "Maxifier Development",
-                "REG.RU",
-                "Разумные решения"
-            ],
-            "results" : [
-                "Maxifier Development",
-                "Maxifier Development",
-                "i-Sys"
+                "All Correct",
+                "MyPlayCity Inc.",
+                "SEO Простор",
+                "Mercury Development",
+                "АО Сбербанк-Технологии",
+                "Мелкин Вадим",
+                "Торопчин Юрий"
             ]
         },
         {
             "title" : "Стрельба",
-            "start_time" : "2015-09-05T10:30:00+04:00",
-            "end_time" : "2015-09-05T15:00:00+04:00",
+            "start_time" : "2016-09-03T11:00:00+04:00",
+            "end_time" : "2016-09-03T18:00:00+04:00",
             "location_x" : 0.52,
             "location_y" : 0.12,
             "teams" : [
                 "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
                 "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "i-Sys",
+                "StartupSamara",
                 "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Elephant Games",
-                "Старт2ком",
-                "Altarix",
-                "ГК СМС-Автоматизация",
-                "ГКУ СО РЦУП",
-                "Воздухоплаватели",
-                "StartUp Samara",
-                "REG.RU",
                 "ИРТех",
-                "ИТС Софт",
-                "FMF",
-                "Разумные решения",
-                "Resolution Point"
-            ],
-            "results" : [
-                "EPAM Systems",
-                "Cloud Castle",
-                "EPAM Systems"
-            ]
-        },
-        {
-            "title" : "Армрестлинг",
-            "start_time" : "2015-09-05T11:00:00+04:00",
-            "end_time" : "2015-09-05T13:00:00+04:00",
-            "location_x" : 0.75,
-            "location_y" : 0.52,
-            "teams" : [
-                "EPAM Systems",
-                "CQG",
                 "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
+                "EPAM Systems",
                 "Altarix",
-                "ГК СМС-Автоматизация",
-                "CleverData",
-                "Самара-Информспутник",
-                "FMF",
-                "Разумные решения"
-            ],
-            "results" : [
-                "CleverData",
-                "CQG",
-                "ГК СМС-Автоматизация"
-            ]
-        },
-        {
-            "title" : "Лазертаг",
-            "start_time" : "2015-09-05T11:00:00+04:00",
-            "end_time" : "2015-09-05T13:00:00+04:00",
-            "location_x" : 0.4,
-            "location_y" : 0.02,
-            "teams" : [
-                "Cloud Castle",
-                "Haulmont",
-                "EPAM Systems",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Доминион",
-                "Altarix",
-                "ГК СМС-Автоматизация",
-                "REG.RU",
-                "ИРТех",
-                "ИТС Софт"
-            ],
-            "results" : [
-                "EPAM Systems",
-                "ИТС Софт",
-                "Cloud Castle"
-            ]
-        },
-        {
-            "title" : "Бег 800 метров (ж)",
-            "start_time" : "2015-09-05T14:00:00+04:00",
-            "end_time" : "2015-09-05T14:30:00+04:00",
-            "location_x" : 0.20,
-            "location_y" : 0.20,
-            "teams" : [
-                "CQG",
-                "Haulmont",
-                "ГКУ СО РЦУП",
-                "Доминион",
-                "ГК СМС-Автоматизация",
-                "Resolution Point",
-                "EPAM Systems",
-                "NetCracker",
-                "ЗАО ПЕТЕР-СЕРВИС"
-            ],
-            "results" : [
-                "Haulmont",
-                "EPAM Systems",
-                "ГКУ СО РЦУП"
-            ]
-        },
-        {
-            "title" : "Бег 800 метров (м)",
-            "start_time" : "2015-09-05T14:00:00+04:00",
-            "end_time" : "2015-09-05T14:30:00+04:00",
-            "location_x" : 0.20,
-            "location_y" : 0.20,
-            "teams" : [
-                "Haulmont",
-                "NetCracker",
-                "ГК СМС-Автоматизация",
-                "REG.RU",
-                "ИРТех",
-                "Воздухоплаватели",
-                "ИТС Софт",
-                "Разумные решения"
-            ],
-            "results" : [
-                "Разумные решения",
-                "NetCracker",
-                "Воздухоплаватели"
+                "АО Сбербанк-Технологии",
+                "ASM Forward Media",
+                "wowworks"
             ]
         },
         {
             "title" : "Минигольф",
-            "start_time" : "2015-09-05T14:00:00+04:00",
-            "end_time" : "2015-09-05T17:00:00+04:00",
+            "start_time" : "2016-09-03T11:00:00+04:00",
+            "end_time" : "2016-09-03T18:00:00+04:00",
             "location_x" : 0.50,
             "location_y" : 0.23,
             "teams" : [
                 "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
                 "Программные Технологии",
-                "EPAM Systems",
                 "CQG",
                 "NetCracker",
-                "ГКУ СО РЦУП",
-                "StartUp Samara",
-                "REG.RU",
-                "Разумные решения"
-            ],
-            "results" : [
-                "NetCracker",
                 "EPAM Systems",
-                "Разумные решения"
-            ]
-        },
-        {
-            "title" : "Петанк",
-            "start_time" : "2015-09-05T16:00:00+04:00",
-            "end_time" : "2015-09-05T18:00:00+04:00",
-            "location_x" : -0.20,
-            "location_y" : 0.05,
-            "teams" : [
-                "Cloud Castle",
-                "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "CQG",
-                "Самара-Информспутник",
-                "Легаль Гурван"
-            ],
-            "results" : [
-                "Самара-Информспутник",
-                "EPAM Systems",
-                "CQG"
+                "Altarix",
+                "ASM Forward Media"
             ]
         },
         {
             "title" : "Прыжки в длину (ж)",
-            "start_time" : "2015-09-05T16:00:00+04:00",
-            "end_time" : "2015-09-05T18:00:00+04:00",
+            "start_time" : "2016-09-03T11:00:00+04:00",
+            "end_time" : "2016-09-03T18:00:00+04:00",
             "location_x" : 0.35,
             "location_y" : 0.20,
             "teams" : [
+                "Разумные решения",
+                "NetCracker",
                 "Haulmont",
-                "StartUp Samara",
-                "ИРТех",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "Resolution Point",
-                "ГКУ СО РЦУП"
-            ],
-            "results" : [
-                "Haulmont",
-                "Resolution Point",
-                "ЗАО ПЕТЕР-СЕРВИС"
+                "EPAM Systems",
+                "Altarix"
             ]
         },
         {
             "title" : "Прыжки в длину (м)",
-            "start_time" : "2015-09-05T14:40:00+04:00",
-            "end_time" : "2015-09-05T16:30:00+04:00",
+            "start_time" : "2016-09-03T11:00:00+04:00",
+            "end_time" : "2016-09-03T18:00:00+04:00",
             "location_x" : 0.35,
             "location_y" : 0.20,
             "teams" : [
-                "EPAM Systems",
-                "Haulmont",
-                "ИнтеллектСофт",
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "CQG",
                 "ЗАО ПЕТЕР-СЕРВИС",
-                "Разумные решения",
-                "Самара-Информспутник",
-                "ГК СМС-Автоматизация"
-            ],
-            "results" : [
+                "ГК ПАРУС",
+                "NetCracker",
+                "i-Sys",
                 "Haulmont",
                 "EPAM Systems",
-                "EPAM Systems"
+                "АО Сбербанк-Технологии"
+            ]
+        },
+        {
+            "title" : "Стритбол",
+            "start_time" : "2016-09-03T11:00:00+04:00",
+            "end_time" : "2016-09-03T13:00:00+04:00",
+            "location_x" : 0.50,
+            "location_y" : 0.23,
+            "teams" : [
+                "Cloud Castle",
+                "Самара-Информспутник",
+                "Программные Технологии",
+                "Maxifier",
+                "ГК ПАРУС",
+                "NetCracker",
+                "EPAM Systems",
+                "Altarix",
+                "АО Сбербанк-Технологии"
+            ]
+        },
+        {
+            "title" : "Настольный теннис (ж)",
+            "start_time" : "2016-09-03T13:00:00+04:00",
+            "end_time" : "2016-09-03T16:00:00+04:00",
+            "location_x" : 0.71,
+            "location_y" : 0.45,
+            "teams" : [
+                "Cloud Castle",
+                "StartupSamara",
+                "NetCracker",
+                "Ecwid",
+                "Altarix",
+                "SEO Простор",
+                "wowworks"
+            ]
+        },
+        {
+            "title" : "Настольный теннис (м)",
+            "start_time" : "2016-09-03T13:00:00+04:00",
+            "end_time" : "2016-09-03T16:00:00+04:00",
+            "location_x" : 0.71,
+            "location_y" : 0.45,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Разумные решения",
+                "Программные Технологии",
+                "StartupSamara",
+                "Maxifier",
+                "CQG",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "ГК ПАРУС",
+                "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
+                "EPAM Systems",
+                "Ecwid",
+                "Altarix",
+                "MyPlayCity Inc.",
+                "SEO Простор",
+                "Mercury Development",
+                "АО Сбербанк-Технологии",
+                "ASM Forward Media",
+                "wowworks"
+            ]
+        },
+        {
+            "title" : "Бег 800 метров (ж, 1 забег)",
+            "start_time" : "2016-09-03T14:00:00+04:00",
+            "end_time" : "2016-09-03T14:30:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.20,
+            "teams" : [
+                "Cloud Castle",
+                "Программные Технологии",
+                "StartupSamara",
+                "NetCracker",
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "wowworks"
+            ]
+        },
+        {
+            "title" : "Бег 800 метров (м, 1 забег)",
+            "start_time" : "2016-09-03T14:00:00+04:00",
+            "end_time" : "2016-09-03T14:30:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.20,
+            "teams" : [
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Разумные решения",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "NetCracker",
+                "EPAM Systems",
+                "wowworks"
+            ]
+        },
+        {
+            "title" : "Петанк",
+            "start_time" : "2016-09-03T15:00:00+04:00",
+            "end_time" : "2016-09-03T18:30:00+04:00",
+            "location_x" : -0.20,
+            "location_y" : 0.05,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Разумные решения",
+                "Программные Технологии",
+                "StartupSamara",
+                "CQG",
+                "EPAM Systems",
+                "Altarix"
+            ]
+        },
+        {
+            "title" : "Волейбол (ж)",
+            "start_time" : "2016-09-04T16:00:00+04:00",
+            "end_time" : "2016-09-04T18:00:00+04:00",
+            "location_x" : -0.20,
+            "location_y" : 0.05,
+            "teams" : [
+                "NetCracker",
+                "Haulmont"
+            ]
+        },
+        {
+            "title" : "Волейбол (м)",
+            "start_time" : "2016-09-04T16:00:00+04:00",
+            "end_time" : "2016-09-04T18:00:00+04:00",
+            "location_x" : -0.20,
+            "location_y" : 0.05,
+            "teams" : [
+                "Cloud Castle",
+                "Самара-Информспутник",
+                "Разумные решения",
+                "Программные Технологии",
+                "StartupSamara",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "ИРТех",
+                "ГК ПАРУС",
+                "NetCracker",
+                "Magenta Technology",
+                "i-Sys",
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "АО Сбербанк-Технологии"
+            ]
+        },
+        {
+            "title" : "Бег 800 метров (ж)",
+            "start_time" : "2016-09-03T17:00:00+04:00",
+            "end_time" : "2016-09-03T17:30:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.20,
+            "teams" : [
+                "Cloud Castle",
+                "Программные Технологии",
+                "StartupSamara",
+                "NetCracker",
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "wowworks"
+            ]
+        },
+        {
+            "title" : "Бег 800 метров (м)",
+            "start_time" : "2016-09-03T17:00:00+04:00",
+            "end_time" : "2016-09-03T17:30:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.20,
+            "teams" : [
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Разумные решения",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "NetCracker",
+                "EPAM Systems",
+                "wowworks"
             ]
         }
     ],
     "second_day_competitions" : [
         {
-            "title" : "Мини-футбол",
-            "start_time" : "2015-09-06T10:00:00+04:00",
-            "end_time" : "2015-09-06T14:30:00+04:00",
-            "location_x" : 0.62,
-            "location_y" : 0.64,
-            "teams" : [
-                "Cloud Castle",
-                "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "i-Sys",
-                "CQG",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "ИТ-ТрансПроект",
-                "Elephant Games",
-                "ГК СМС-Автоматизация",
-                "Воздухоплаватели",
-                "ООО ПАРУС",
-                "REG.RU",
-                "ИРТех",
-                "ООО ГК ИНФОПРО",
-                "Ривер Cити",
-                "Тулин Алексей"
-            ],
-            "results" : [
-                "ООО ПАРУС",
-                "i-Sys",
-                "ГК СМС-Автоматизация"
-            ]
-        },
-        {
-            "title" : "Велоэстафета",
-            "start_time" : "2015-09-06T11:00:00+04:00",
-            "end_time" : "2015-09-06T12:00:00+04:00",
-            "location_x" : 0.20,
-            "location_y" : 0.80,
-            "teams" : [
-                "Haulmont",
-                "EPAM Systems",
-                "NetCracker",
-                "ГК СМС-Автоматизация",
-                "Самара-Информспутник",
-                "СМ Маркет",
-                "Разумные решения"
-            ],
-            "results" : [
-                "Haulmont",
-                "Разумные решения",
-                "СМ Маркет"
-            ]
-        },
-        {
-            "title" : "Волейбол (ж)",
-            "start_time" : "2015-09-06T10:00:00+04:00",
-            "end_time" : "2015-09-06T17:30:00+04:00",
-            "location_x" : -0.20,
-            "location_y" : 0.05,
-            "teams" : [
-                "NetCracker",
-                "ГКУ СО РЦУП",
-                "Haulmont",
-                "REG.RU",
-                "ИТ-ТрансПроект"
-            ],
-            "results" : [
-                "Haulmont",
-                "ГКУ СО РЦУП",
-                "NetCracker"
-            ]
-        },
-        {
-            "title" : "Волейбол (м)",
-            "start_time" : "2015-09-06T10:00:00+04:00",
-            "end_time" : "2015-09-06T17:30:00+04:00",
-            "location_x" : -0.20,
-            "location_y" : 0.05,
-            "teams" : [
-                "StartUp Samara",
-                "EPAM Systems",
-                "Разумные решения",
-                "Altarix",
-                "NetCracker",
-                "ИТС Софт",
-                "Haulmont",
-                "Программные Технологии",
-                "Самара-Информспутник",
-                "ГК СМС-Автоматизация",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "Elephant Games",
-                "i-Sys",
-                "REG.RU"
-            ],
-            "results" : [
-                "Программные Технологии",
-                "Haulmont",
-                "StartUp Samara"
-            ]
-        },
-        {
-            "title" : "Настольный хоккей",
-            "start_time" : "2015-09-06T10:00:00+04:00",
-            "end_time" : "2015-09-06T13:00:00+04:00",
-            "location_x" : 0.70,
-            "location_y" : 0.44,
-            "teams" : [
-                "Cloud Castle",
-                "Программные Технологии",
-                "Haulmont",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "Altarix",
-                "ГК СМС-Автоматизация",
-                "ООО ПАРУС",
-                "Разумные решения"
-            ],
-            "results" : [
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "Haulmont"
-            ]
-        },
-        {
             "title" : "Гиревой спорт",
-            "start_time" : "2015-09-06T10:00:00+04:00",
-            "end_time" : "2015-09-06T13:00:00+04:00",
+            "start_time" : "2016-09-04T10:00:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
             "location_x" : 0.75,
             "location_y" : 0.52,
             "teams" : [
-                "EPAM Systems",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Доминион",
-                "Altarix",
                 "ГК СМС-Автоматизация",
                 "Самара-Информспутник",
-                "Разумные решения"
-            ],
-            "results" : [
-                "ГК СМС-Автоматизация",
+                "Разумные решения",
+                "ИРТех",
                 "NetCracker",
-                "Доминион"
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "All Correct",
+                "ASM Forward Media"
             ]
         },
         {
             "title" : "Подтягивание",
-            "start_time" : "2015-09-06T10:00:00+04:00",
-            "end_time" : "2015-09-06T18:00:00+04:00",
+            "start_time" : "2016-09-04T10:00:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
             "location_x" : 0.75,
             "location_y" : 0.52,
             "teams" : [
-                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
                 "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
+                "StartupSamara",
                 "ЗАО ПЕТЕР-СЕРВИС",
+                "ГК ПАРУС",
                 "NetCracker",
-                "Доминион",
-                "Elephant Games",
+                "Magenta Technology",
+                "i-Sys",
+                "Haulmont",
+                "EPAM Systems",
                 "Altarix",
-                "ГК СМС-Автоматизация",
-                "StartUp Samara",
-                "ИРТех"
-            ],
-            "results" : [
-                "Haulmont",
-                "Haulmont",
-                "Cloud Castle"
-            ]
-        },
-        {
-            "title" : "Бадминтон (ж)",
-            "start_time" : "2015-09-06T11:00:00+04:00",
-            "end_time" : "2015-09-06T14:00:00+04:00",
-            "location_x" : 0.35,
-            "location_y" : 0.20,
-            "teams" : [
-                "ИТС Софт",
-                "EPAM Systems",
-                "ИРТех",
-                "Haulmont",
-                "ООО ПАРУС",
-                "CQG"
-            ],
-            "results" : [
-                "EPAM Systems",
-                "CQG",
-                "ООО ПАРУС"
-            ]
-        },
-        {
-            "title" : "Бадминтон (м)",
-            "start_time" : "2015-09-06T11:00:00+04:00",
-            "end_time" : "2015-09-06T14:00:00+04:00",
-            "location_x" : 0.35,
-            "location_y" : 0.20,
-            "teams" : [
-                "Cloud Castle",
-                "StartUp Samara",
-                "EPAM Systems",
-                "Haulmont",
-                "Воздухоплаватели",
-                "ГК СМС-Автоматизация",
-                "Программные Технологии",
-                "Разумные решения"
-            ],
-            "results" : [
-                "Программные Технологии",
-                "Cloud Castle",
-                "Программные Технологии"
+                "Mercury Development",
+                "АО Сбербанк-Технологии"
             ]
         },
         {
             "title" : "Жим лёжа",
-            "start_time" : "2015-09-06T12:00:00+04:00",
-            "end_time" : "2015-09-06T14:30:00+04:00",
+            "start_time" : "2016-09-04T10:00:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
             "location_x" : 0.75,
             "location_y" : 0.52,
             "teams" : [
-                "Haulmont",
-                "EPAM Systems",
-                "CQG",
+                "Разумные решения",
                 "ЗАО ПЕТЕР-СЕРВИС",
                 "NetCracker",
-                "Доминион",
-                "Elephant Games",
-                "ГК СМС-Автоматизация",
-                "Воздухоплаватели",
-                "REG.RU",
-                "ООО ГК ИНФОПРО",
-                "Разумные решения",
-                "Поликанов Антон"
-            ],
-            "results" : [
                 "Haulmont",
-                "Elephant Games",
-                "REG.RU"
-            ]
-        },
-        {
-            "title" : "Городки",
-            "start_time" : "2015-09-06T12:00:00+04:00",
-            "end_time" : "2015-09-06T15:00:00+04:00",
-            "location_x" : 0.52,
-            "location_y" : 0.12,
-            "teams" : [
-                "Cloud Castle",
-                "Haulmont",
-                "EPAM Systems",
-                "ИТС Софт"
-            ],
-            "results" : [
-                "EPAM Systems",
-                "Cloud Castle",
-                "Haulmont"
+                "All Correct",
+                "SEO Простор"
             ]
         },
         {
             "title" : "Дартс",
-            "start_time" : "2015-09-06T13:00:00+04:00",
-            "end_time" : "2015-09-06T17:30:00+04:00",
+            "start_time" : "2016-09-04T10:00:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
             "location_x" : 0.02,
             "location_y" : 0.44,
             "teams" : [
+                "Самара-Информспутник",
+                "Разумные решения",
                 "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
                 "CQG",
                 "ЗАО ПЕТЕР-СЕРВИС",
-                "Доминион",
+                "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "SEO Простор",
+                "АО Сбербанк-Технологии",
+                "ASM Forward Media"
+            ]
+        },
+        {
+            "title" : "Городки",
+            "start_time" : "2016-09-04T10:00:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
+            "location_x" : 0.52,
+            "location_y" : 0.12,
+            "teams" : [
+                "Cloud Castle",
+                "Программные Технологии",
+                "NetCracker",
+                "Haulmont",
+                "EPAM Systems",
+                "ASM Forward Media"
+            ]
+        },
+        {
+            "title" : "Настольный хоккей",
+            "start_time" : "2016-09-04T10:00:00+04:00",
+            "end_time" : "2016-09-04T12:00:00+04:00",
+            "location_x" : 0.70,
+            "location_y" : 0.44,
+            "teams" : [
+                "Cloud Castle",
                 "ГК СМС-Автоматизация",
-                "Самара-Информспутник",
-                "ГКУ СО РЦУП",
-                "Воздухоплаватели",
-                "REG.RU",
-                "Разумные решения"
-            ],
-            "results" : [
-                "Самара-Информспутник",
-                "Доминион",
+                "Разумные решения",
+                "Программные Технологии",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
+                "EPAM Systems",
+                "Ecwid"
+            ]
+        },
+
+        {
+            "title" : "Армрестлинг",
+            "start_time" : "2016-09-04T11:00:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
+            "location_x" : 0.75,
+            "location_y" : 0.52,
+            "teams" : [
+                "Разумные решения",
+                "StartupSamara",
+                "NetCracker",
+                "Magenta Technology",
+                "i-Sys",
+                "EPAM Systems",
+                "CleverData",
+                "Altarix",
+                "ASM Forward Media"
+            ]
+        },
+        {
+            "title" : "Бадминтон (ж)",
+            "start_time" : "2016-09-04T11:00:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
+            "location_x" : 0.35,
+            "location_y" : 0.20,
+            "teams" : [
+                "Разумные решения",
+                "Программные Технологии",
+                "CQG",
+                "NetCracker",
+                "Haulmont",
+                "EPAM Systems",
+                "SEO Простор",
+                "ASM Forward Media"
+            ]
+        },
+        {
+            "title" : "Бадминтон (м)",
+            "start_time" : "2016-09-04T11:00:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
+            "location_x" : 0.35,
+            "location_y" : 0.20,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
+                "Программные Технологии",
+                "CQG",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "RiverCity",
+                "Haulmont",
                 "EPAM Systems"
             ]
         },
         {
-            "title" : "Кроссфит (ж)",
-            "start_time" : "2015-09-06T13:00:00+04:00",
-            "end_time" : "2015-09-06T17:00:00+04:00",
-            "location_x" : 0.35,
-            "location_y" : 0.20,
-            "teams" : [
-                "Altarix",
-                "EPAM Systems",
-                "REG.RU",
-                "ИТ-ТрансПроект",
-                "Haulmont"
-            ],
-            "results" : [
-                "Altarix",
-                "EPAM Systems",
-                "REG.RU"
-            ]
-        },
-        {
-            "title" : "Кроссфит (м)",
-            "start_time" : "2015-09-06T13:00:00+04:00",
-            "end_time" : "2015-09-06T17:00:00+04:00",
-            "location_x" : 0.35,
-            "location_y" : 0.20,
+            "title" : "Мини-футбол",
+            "start_time" : "2016-09-04T11:30:00+04:00",
+            "end_time" : "2016-09-04T15:30:00+04:00",
+            "location_x" : 0.62,
+            "location_y" : 0.64,
             "teams" : [
                 "Cloud Castle",
-                "Elephant Games",
-                "WeSee ltd",
-                "NetCracker",
-                "REG.RU",
-                "Доминион",
-                "Разумные решения"
-            ],
-            "results" : [
-                "Cloud Castle",
-                "WeSee ltd",
-                "REG.RU"
-            ]
-        },
-        {
-            "title" : "Велокросс XCO (ж)",
-            "start_time" : "2015-09-06T13:30:00+04:00",
-            "end_time" : "2015-09-06T15:00:00+04:00",
-            "location_x" : 0.20,
-            "location_y" : 0.80,
-            "teams" : [
-                "Cloud Castle",
-                "NetCracker",
-                "StartUp Samara",
-                "Разумные решения",
-                "Самара-Информспутник",
-                "Haulmont"
-            ],
-            "results" : [
-                "Разумные решения",
-                "Самара-Информспутник",
-                ""
-            ]
-        },
-        {
-            "title" : "Велокросс XCO (м)",
-            "start_time" : "2015-09-06T13:30:00+04:00",
-            "end_time" : "2015-09-06T15:00:00+04:00",
-            "location_x" : 0.20,
-            "location_y" : 0.80,
-            "teams" : [
-                "Altarix",
-                "EPAM Systems",
-                "Овчинников Андрей",
-                "Haulmont",
-                "i-Sys",
-                "NetCracker",
-                "REG.RU",
-                "Воздухоплаватели",
-                "Доминион",
-                "Разумные решения",
                 "ГК СМС-Автоматизация",
-                "СМ Маркет"
-            ],
-            "results" : [
-                "Haulmont",
+                "Программные Технологии",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "ГК ПАРУС",
+                "RiverCity",
                 "NetCracker",
-                "Овчинников Андрей"
+                "i-Sys",
+                "EPAM Systems",
+                "Mercury Development"
+            ]
+        },
+        {
+            "title" : "Лазертаг",
+            "start_time" : "2016-09-04T13:00:00+04:00",
+            "end_time" : "2016-09-04T17:30:00+04:00",
+            "location_x" : 0.4,
+            "location_y" : 0.02,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
+                "Программные Технологии",
+                "StartupSamara",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "АО Сбербанк-Технологии",
+                "ASM Forward Media"
             ]
         },
         {
             "title" : "Бег 5000 метров (ж)",
-            "start_time" : "2015-09-06T15:00:00+04:00",
-            "end_time" : "2015-09-06T16:30:00+04:00",
+            "start_time" : "2016-09-04T15:30:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
             "location_x" : 0.19,
             "location_y" : 0.19,
             "teams" : [
                 "Cloud Castle",
-                "EPAM Systems",
-                "NetCracker",
-                "REG.RU",
-                "ГКУ СО РЦУП",
-                "Доминион",
-                "ИРТех",
-                "ИТС Софт",
                 "Программные Технологии",
-                "ИП Батищев"
-            ],
-            "results" : [
+                "CQG",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "RiverCity",
+                "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
                 "EPAM Systems",
-                "Cloud Castle",
-                "ИРТех"
+                "АО Сбербанк-Технологии",
+                "wowworks"
             ]
         },
         {
             "title" : "Бег 5000 метров (м)",
-            "start_time" : "2015-09-06T15:00:00+04:00",
-            "end_time" : "2015-09-06T16:30:00+04:00",
+            "start_time" : "2016-09-04T15:30:00+04:00",
+            "end_time" : "2016-09-04T17:00:00+04:00",
             "location_x" : 0.19,
             "location_y" : 0.19,
             "teams" : [
-                "Cloud Castle",
-                "Altarix",
-                "Elephant Games",
-                "EPAM Systems",
-                "Поликанов Антон",
-                "АО АКБ ГАЗБАНК",
-                "Haulmont",
-                "NetCracker",
-                "REG.RU",
-                "Доминион",
-                "ИнтеллектСофт",
-                "ИРТех",
-                "ИТ-ТрансПроект",
-                "ИТС Софт",
-                "ЗАО ПЕТЕР-СЕРВИС",
-                "Разумные решения",
-                "Самара-Информспутник",
                 "ГК СМС-Автоматизация",
-                "ИП Батищев"
-            ],
-            "results" : [
-                "ИнтеллектСофт",
+                "Разумные решения",
+                "Программные Технологии",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "ИРТех",
+                "ГК ПАРУС",
+                "NetCracker",
+                "Magenta Technology",
                 "Haulmont",
-                "Разумные решения"
+                "EPAM Systems",
+                "АО Сбербанк-Технологии",
+                "wowworks"
             ]
         },
         {
             "title" : "Перетягивание каната (ж)",
-            "start_time" : "2015-09-06T16:30:00+04:00",
-            "end_time" : "2015-09-06T18:00:00+04:00",
+            "start_time" : "2016-09-04T17:00:00+04:00",
+            "end_time" : "2016-09-04T18:00:00+04:00",
             "location_x" : 0.35,
             "location_y" : 0.20,
             "teams" : [
-                "Cloud Castle",
-                "EPAM Systems",
-                "REG.RU"
-            ],
-            "results" : [
-                "EPAM Systems",
-                "Cloud Castle",
-                "REG.RU"
+                "StartupSamara",
+                "CQG",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "EPAM Systems"
             ]
         },
         {
             "title" : "Перетягивание каната (м)",
-            "start_time" : "2015-09-06T16:30:00+04:00",
-            "end_time" : "2015-09-06T18:00:00+04:00",
+            "start_time" : "2016-09-04T17:00:00+04:00",
+            "end_time" : "2016-09-04T18:00:00+04:00",
             "location_x" : 0.35,
             "location_y" : 0.20,
             "teams" : [
                 "Cloud Castle",
+                "ГК СМС-Автоматизация",
                 "Самара-Информспутник",
-                "EPAM Systems",
-                "Разумные решения",
-                "Elephant Games",
-                "Воздухоплаватели",
-                "FMF",
-                "Haulmont"
-            ],
-            "results" : [
-                "EPAM Systems",
+                "StartupSamara",
                 "Haulmont",
-                "Самара-Информспутник"
+                "EPAM Systems",
+                "ASM Forward Media"
             ]
         },
         {
             "title" : "Награждение",
-            "start_time" : "2015-09-06T18:00:00+04:00",
-            "end_time" : "2015-09-06T19:00:00+04:00",
+            "start_time" : "2016-09-04T18:30:00+04:00",
+            "end_time" : "2016-09-04T19:00:00+04:00",
             "location_x" : 0.35,
             "location_y" : 0.20,
             "teams" : [
                 "Cloud Castle",
-                "BoomeranGO",
-                "PARUS AGENCY",
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Разумные решения",
                 "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "i-Sys",
+                "StartupSamara",
+                "Maxifier",
                 "CQG",
                 "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Доминион",
-                "ИТ-ТрансПроект",
-                "Elephant Games",
-                "Старт2ком",
-                "Altarix",
-                "ГК СМС-Автоматизация",
-                "АйТи Таск",
-                "Nvision",
-                "CleverData",
-                "WeSee ltd",
-                "Самара-Информспутник",
-                "ГКУ СО РЦУП",
-                "Воздухоплаватели",
-                "StartUp Samara",
-                "Magenta Technology",
-                "ООО ПАРУС",
-                "Maxifier Development",
-                "REG.RU",
                 "ИРТех",
-                "ООО ГК ИНФОПРО",
-                "ИТС Софт",
-                "СМ Маркет",
-                "FMF",
-                "ИнтеллектСофт",
-                "Разумные решения",
-                "Ривер Cити",
-                "АО АКБ ГАЗБАНК",
-                "Техотдел",
-                "Resolution Point",
-                "ИП Батищев",
-                "Титков Иван",
-                "Лущенко Денис",
-                "Сафронов Андрей",
-                "Поликанов Антон",
-                "Якуцэня Александр",
-                "Овчинников Андрей",
-                "Тулин Алексей",
-                "Жуков Сергей",
-                "Легаль Гурван"
+                "ГК ПАРУС",
+                "Воздухоплаватели",
+                "RiverCity",
+                "NetCracker",
+                "Magenta Technology",
+                "i-Sys",
+                "Haulmont",
+                "EPAM Systems",
+                "Ecwid",
+                "CleverData",
+                "Altarix",
+                "All Correct",
+                "MyPlayCity Inc.",
+                "SEO Простор",
+                "Mercury Development",
+                "АО Сбербанк-Технологии",
+                "Мелкин Вадим",
+                "Торопчин Юрий"
             ]
         },
         {
             "title" : "Торжественное закрытие",
-            "start_time" : "2015-09-06T19:00:00+04:00",
-            "end_time" : "2015-09-06T19:30:00+04:00",
+            "start_time" : "2016-09-04T19:00:00+04:00",
+            "end_time" : "2016-09-04T19:30:00+04:00",
             "location_x" : 0.35,
             "location_y" : 0.20,
             "teams" : [
                 "Cloud Castle",
-                "BoomeranGO",
-                "PARUS AGENCY",
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Разумные решения",
                 "Программные Технологии",
-                "Haulmont",
-                "EPAM Systems",
-                "i-Sys",
+                "StartupSamara",
+                "Maxifier",
                 "CQG",
                 "ЗАО ПЕТЕР-СЕРВИС",
-                "NetCracker",
-                "Доминион",
-                "ИТ-ТрансПроект",
-                "Elephant Games",
-                "Старт2ком",
-                "Altarix",
-                "ГК СМС-Автоматизация",
-                "АйТи Таск",
-                "Nvision",
-                "CleverData",
-                "WeSee ltd",
-                "Самара-Информспутник",
-                "ГКУ СО РЦУП",
-                "Воздухоплаватели",
-                "StartUp Samara",
-                "Magenta Technology",
-                "ООО ПАРУС",
-                "Maxifier Development",
-                "REG.RU",
                 "ИРТех",
-                "ООО ГК ИНФОПРО",
-                "ИТС Софт",
-                "СМ Маркет",
-                "FMF",
-                "ИнтеллектСофт",
+                "ГК ПАРУС",
+                "Воздухоплаватели",
+                "RiverCity",
+                "NetCracker",
+                "Magenta Technology",
+                "i-Sys",
+                "Haulmont",
+                "EPAM Systems",
+                "Ecwid",
+                "CleverData",
+                "Altarix",
+                "All Correct",
+                "MyPlayCity Inc.",
+                "SEO Простор",
+                "Mercury Development",
+                "АО Сбербанк-Технологии",
+                "Мелкин Вадим",
+                "Торопчин Юрий"
+            ]
+        }
+    ],
+    "zero_day_competitions" : [
+        {
+            "title" : "Го",
+            "start_time" : "2016-08-07T12:00:00+04:00",
+            "end_time" : "2016-08-07T17:00:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.80,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
                 "Разумные решения",
-                "Ривер Cити",
-                "АО АКБ ГАЗБАНК",
-                "Техотдел",
-                "Resolution Point",
-                "ИП Батищев",
-                "Титков Иван",
-                "Лущенко Денис",
-                "Сафронов Андрей",
-                "Поликанов Антон",
-                "Якуцэня Александр",
-                "Овчинников Андрей",
-                "Тулин Алексей",
-                "Жуков Сергей",
-                "Легаль Гурван"
+                "EPAM Systems"
+            ],
+            "results" : [
+                "EPAM Systems",
+                "ГК СМС-Автоматизация",
+                "Cloud Castle"
+            ],
+            "winners" : [
+                "Якушин Андрей",
+                "Сидоров Артём",
+                "Семушин Павел"
+            ]
+        },
+        {
+            "title" : "Шахматы",
+            "start_time" : "2016-08-13T12:00:00+04:00",
+            "end_time" : "2016-08-13T18:00:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.80,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
+                "StartupSamara",
+                "Maxifier",
+                "ЗАО ПЕТЕР-СЕРВИС",
+                "Воздухоплаватели",
+                "NetCracker",
+                "Magenta Technology",
+                "i-Sys",
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "АО Сбербанк-Технологии",
+                "ASM Forward Media"
+            ],
+            "results" : [
+                "Maxifier",
+                "i-Sys",
+                "ГК СМС-Автоматизация"
+            ],
+            "winners" : [
+                "Саяпин Александр",
+                "Емельянов Вадим",
+                "Захарченко Виталий"
+            ]
+        },
+        {
+            "title" : "Плавание (ж)",
+            "start_time" : "2016-08-14T12:00:00+04:00",
+            "end_time" : "2016-08-14T15:00:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.80,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "NetCracker",
+                "Haulmont"
+            ],
+            "results" : [
+                "ГК СМС-Автоматизация",
+                "Haulmont",
+                "NetCracker"
+            ],
+            "winners" : [
+                "Смирнова Олеся",
+                "Шамардина Елизавета",
+                "Крылова Галина"
+            ]
+        },
+        {
+            "title" : "Плавание (м)",
+            "start_time" : "2016-08-14T12:00:00+04:00",
+            "end_time" : "2016-08-14T15:00:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.80,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Самара-Информспутник",
+                "Программные Технологии",
+                "RiverCity",
+                "NetCracker",
+                "EPAM Systems",
+                "Altarix",
+                "АО Сбербанк-Технологии",
+                "Мелкин Вадим",
+                "Торопчин Юрий"
+            ],
+            "results" : [
+                "EPAM Systems",
+                "Самара-Информспутник",
+                "ГК СМС-Автоматизация"
+            ],
+            "winners" : [
+                "Рыжов Тимофей",
+                "Юзькив Руслан",
+                "Красильников Алексей"
+            ]
+        },
+        {
+            "title" : "Велокросс XCO (ж)",
+            "start_time" : "2015-08-27T10:00:00+04:00",
+            "end_time" : "2015-08-27T13:00:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.80,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
+                "Программные Технологии",
+                "StartupSamara",
+                "CQG",
+                "RiverCity",
+                "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "MyPlayCity Inc.",
+                "АО Сбербанк-Технологии"
+            ],
+            "results" : [
+                "RiverCity",
+                "EPAM Systems",
+                "Cloud Castle"
+            ],
+            "winners" : [
+                "Шелеметьева Евгения",
+                "Исхакова Татьяна",
+                "Лукина Татьяна"
+            ]
+        },
+        {
+            "title" : "Велокросс XCO (м)",
+            "start_time" : "2015-08-27T10:00:00+04:00",
+            "end_time" : "2015-08-27T13:00:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.80,
+            "teams" : [
+                "Cloud Castle",
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
+                "Программные Технологии",
+                "StartupSamara",
+                "CQG",
+                "RiverCity",
+                "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
+                "EPAM Systems",
+                "Altarix",
+                "MyPlayCity Inc.",
+                "АО Сбербанк-Технологии"
+            ],
+            "results" : [
+                "Haulmont",
+                "Magenta Technology",
+                "Maxifier"
+            ],
+            "winners" : [
+                "Зоткин Александр",
+                "Долгинин Максим",
+                "Яшинин Константин"
+            ]
+        },
+        {
+            "title" : "Велоэстафета",
+            "start_time" : "2015-08-27T10:00:00+04:00",
+            "end_time" : "2015-08-27T13:00:00+04:00",
+            "location_x" : 0.20,
+            "location_y" : 0.80,
+            "teams" : [
+                "ГК СМС-Автоматизация",
+                "Разумные решения",
+                "RiverCity",
+                "NetCracker",
+                "Magenta Technology",
+                "Haulmont",
+                "EPAM Systems",
+                "Ecwid",
+                "АО Сбербанк-Технологии"
+            ],
+            "results" : [
+                "Haulmont",
+                "EPAM Systems",
+                "ГК СМС-Автоматизация"
+            ],
+            "winners" : [
+                "Зоткин Александр, Захарченко Евгений, Овчинников Сергей, Минаев Владислав",
+                "Батраков Анатолий, Исхакова Татьяна, Зубов Иван, Сидельников Дмитрий",
+                "Андронов Эдуард, Матыцин Андрей, Подгорная Регина, Кособоков Михаил"
             ]
         }
     ]
