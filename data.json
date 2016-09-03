@@ -431,6 +431,11 @@
             "teams" : [
                 "NetCracker",
                 "Haulmont"
+            ],
+            "results" : [
+                "NetCracker",
+                "Haulmont",
+                "NetCracker"
             ]
         },
         {
@@ -455,6 +460,11 @@
                 "EPAM Systems",
                 "Altarix",
                 "АО Сбербанк-Технологии"
+            ],
+            "results" : [
+                "Haulmont",
+                "Программные Технологии",
+                "NetCracker"
             ]
         },
         {
