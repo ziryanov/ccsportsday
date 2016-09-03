@@ -462,6 +462,11 @@
                 "EPAM Systems",
                 "Altarix",
                 "wowworks"
+            ],
+            "results" : [
+                "EPAM Systems",
+                "Haulmont",
+                "Cloud Castle"
             ]
         },
         {
@@ -477,7 +482,13 @@
                 "ЗАО ПЕТЕР-СЕРВИС",
                 "NetCracker",
                 "EPAM Systems",
-                "wowworks"
+                "wowworks",
+                "Haulmont"
+            ],
+            "results" : [
+                "NetCracker",
+                "EPAM Systems",
+                "Haulmont"
             ]
         }
     ],
