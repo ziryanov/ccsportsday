@@ -690,6 +690,11 @@
                 "EPAM Systems",
                 "SEO Простор",
                 "ASM Forward Media"
+            ],
+            "results" : [
+                "EPAM Systems",
+                "EPAM Systems",
+                "CQG"
             ]
         },
         {
@@ -707,6 +712,11 @@
                 "ЗАО ПЕТЕР-СЕРВИС",
                 "RiverCity",
                 "Haulmont",
+                "EPAM Systems"
+            ],
+            "results" : [
+                "Программные Технологии",
+                "CQG",
                 "EPAM Systems"
             ]
         },
