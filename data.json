@@ -789,10 +789,16 @@
             "location_x" : 0.35,
             "location_y" : 0.20,
             "teams" : [
+                "Cloud Castle",
                 "StartupSamara",
                 "CQG",
                 "ЗАО ПЕТЕР-СЕРВИС",
                 "EPAM Systems"
+            ],
+            "results" : [
+                "EPAM Systems",
+                "CQG",
+                "Cloud Castle"
             ]
         },
         {
