@@ -669,6 +669,7 @@
             "location_x" : 0.75,
             "location_y" : 0.52,
             "teams" : [
+                "ГК СМС-Автоматизация",
                 "Разумные решения",
                 "StartupSamara",
                 "NetCracker",
@@ -678,6 +679,11 @@
                 "CleverData",
                 "Altarix",
                 "ASM Forward Media"
+            ],
+            "results" : [
+                "ГК СМС-Автоматизация",
+                "CleverData",
+                "i-Sys"
             ]
         },
         {
