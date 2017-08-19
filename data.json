@@ -948,6 +948,10 @@
         "Castle",
         "RiverCity",
         "EPAM Systems"
+      ],
+      "results": [
+        "EPAM Systems",
+        "Castle"
       ]
     },
     {
@@ -970,6 +974,11 @@
         "Haulmont",
         "Maxifier",
         "Линник Вячеслав"
+      ],
+      "results": [
+        "Haulmont",
+        "Maxifier",
+        "Haulmont"
       ]
     },
     {
