@@ -290,7 +290,13 @@
         "ГК СМС-Автоматизация",
         "EPAM Systems",
         "АО ПЕТЕР-СЕРВИС",
-        "Haulmont"
+        "Haulmont",
+        "Castle"
+      ],
+      "results": [
+        "Haulmont",
+        "EPAM Systems",
+        "EPAM Systems"
       ]
     },
     {
@@ -309,6 +315,11 @@
         "АО ПЕТЕР-СЕРВИС",
         "Haulmont",
         "Эквид"
+      ],
+      "results": [
+        "Haulmont",
+        "Эквид",
+        "Mercury Development"
       ]
     },
     {
