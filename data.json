@@ -351,6 +351,11 @@
         "Castle",
         "EPAM Systems",
         "Эквид"
+      ],
+      "results": [
+        "EPAM Systems",
+        "Castle",
+        "Эквид"
       ]
     },
     {
@@ -365,6 +370,11 @@
         "EPAM Systems",
         "Разумные решения",
         "АО ПЕТЕР-СЕРВИС",
+        "Haulmont",
+        "Эквид"
+      ],
+      "results": [
+        "EPAM Systems",
         "Haulmont",
         "Эквид"
       ]
