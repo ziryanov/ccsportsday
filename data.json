@@ -792,7 +792,13 @@
         "Castle",
         "EPAM Systems",
         "CQG",
-        "Haulmont"
+        "Haulmont",
+        "АО ПЕТЕР-СЕРВИС"
+      ],
+      "results": [
+        "Haulmont",
+        "EPAM Systems",
+        "АО ПЕТЕР-СЕРВИС"
       ]
     },
     {
@@ -806,6 +812,11 @@
         "EPAM Systems",
         "Haulmont",
         "ASM Forward Media"
+      ],
+      "results": [
+        "EPAM Systems",
+        "Haulmont",
+        "Castle"
       ]
     },
     {
